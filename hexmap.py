@@ -43,7 +43,7 @@ def calc_hex_height(hex_width):
 
 COORD_SIZE_PART_OF_HEX_HEIGHT = 0.1
 COORD_YOFFSET_PART = 75
-CENTERDOT_SIZE_FACTOR = 1.1690625
+CENTERDOT_SIZE_FACTOR = 0.3333
 
 LAYERS = ["grid", "centerdots", "vertices", "fill", "coordinates", "circles"]
 
